@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.colossus" name="[COLOR gold]Colossus Repository[/COLOR]" version="999.999.9" provider-name="Colossal">
-    <extension point="xbmc.addon.repository" name="[COLOR gold]Colossus Repository[/COLOR]">
+<addon id="repository.safe-streams" name="[COLOR gold]knobbys Repository[/COLOR]" version="0.0.1" provider-name="knobby">
+    <extension point="xbmc.addon.repository" name="[COLOR gold]safe-streams Repository[/COLOR]">
     <dir>
         <info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
         <checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
